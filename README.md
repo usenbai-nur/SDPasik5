@@ -38,7 +38,7 @@ home.leaveHome();
 
 Each mode automatically configures all devices — turning lights on/off, setting thermostat modes, starting or stopping recording, etc.
 
-🧱 Project Structure
+ Project Structure
 src/
 ├── devices/
 │   ├── Device.java
